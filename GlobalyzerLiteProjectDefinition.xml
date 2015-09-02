@@ -16,7 +16,6 @@
 
   <scans>
     <scan>
-    <scan>
       <!-- create and execute a single scan with this info -->
       <scan-name>HTML Basic Scan</scan-name>
       <ruleset-name>ww-Html-Demo</ruleset-name>
@@ -25,6 +24,7 @@
           <item>WorldWind/src/overview.html</item>
       </scan-items>
     </scan>
+    <scan>
       <!-- create and execute a single scan with this info -->
       <scan-name>Java Basic Scan</scan-name>
       <ruleset-name>ww-Java-Demo</ruleset-name>
